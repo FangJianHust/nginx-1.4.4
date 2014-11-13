@@ -1,0 +1,1 @@
+#define NGX_CONFIGURE " --prefix=/usr/local/nginx --with-pcre=/home/fangjian/ftp/pub/study/璇惧
